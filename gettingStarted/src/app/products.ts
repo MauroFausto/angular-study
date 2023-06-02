@@ -22,6 +22,12 @@ export interface Product {
       id: 3,
       name: 'Phone Standard',
       price: 299,
+      description: 'A generic but functional phone'
+    },
+    {
+      id: 4,
+      name: 'Disposable phone',
+      price: 59.99,
       description: ''
     }
   ];
